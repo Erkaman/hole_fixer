@@ -33,4 +33,4 @@ mkdir build && cd build && cmake .. && make
 If on Windows, create a `build/` folder, and run `cmake ..` from
 inside that folder. This will create a visual studio solution(if you
 have visual studio). Launch that solution, and then simply compile the
-project named `poisson_blend`.
+project named `hole_fixer`.
