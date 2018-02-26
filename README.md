@@ -5,7 +5,7 @@
 ![](img/spheremontage.png)
 
 An implementation of Surface Fairing, that demonstrates the concepts explained in 
-[my article](https://erkaman.github.io/posts/poisson_blending.html).
+[my article](https://erkaman.github.io/posts/hole_filling.html).
 
 This demo program allows you to specify a broken mesh with a hole, that the program will fix.
 By running the command line
