@@ -1,4 +1,4 @@
-# holefixer - Demo implementation of smoothly filling holes in 3D meshes using surface fairing
+# hole_fixer - Demo implementation of smoothly filling holes in 3D meshes using surface fairing
 
 ![](img/bunnymontage.png)
 
